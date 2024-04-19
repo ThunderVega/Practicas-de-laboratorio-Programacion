@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1713506936 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\main.cpp
+	<iostream>
+	"CapitanAmerica.h"
+	"IronMan.h"
+	"ViudaNegra.h"
+	"Hulk.h"
+	"Thor.h"
+
+1713506912 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\hulk.cpp
+	"Hulk.h"
+	"Humano.h"
+
+1713505108 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\hulk.h
+	<iostream>
+	"Humano.h"
+
+1713501255 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\humano.cpp
+	"Humano.h"
+
+1713501255 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\humano.h
+	<iostream>
+	<string.h>
+
+1713505532 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\ironman.cpp
+	"IronMan.h"
+	"Humano.h"
+
+1713505108 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\ironman.h
+	<iostream>
+	"Humano.h"
+
+1713505926 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\thor.cpp
+	"Thor.h"
+	"Humano.h"
+
+1713505108 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\thor.h
+	<iostream>
+	"Humano.h"
+
+1713505926 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\viudanegra.cpp
+	"ViudaNegra.h"
+	"Humano.h"
+
+1713505108 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\viudanegra.h
+	<iostream>
+	"Humano.h"
+
+1713502576 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\src\capitanamerica.cpp
+	"CapitanAmerica.h"
+	"Humano.h"
+
+1713505108 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia5-josevega\include\capitanamerica.h
+	<iostream>
+	"Humano.h"
+

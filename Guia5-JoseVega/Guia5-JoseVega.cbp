@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Guia5-JoseVega" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Guia5-JoseVega" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Guia5-JoseVega" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/CapitanAmerica.h" />
+		<Unit filename="include/Hulk.h" />
+		<Unit filename="include/Humano.h" />
+		<Unit filename="include/IronMan.h" />
+		<Unit filename="include/Thor.h" />
+		<Unit filename="include/ViudaNegra.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/CapitanAmerica.cpp" />
+		<Unit filename="src/Hulk.cpp" />
+		<Unit filename="src/Humano.cpp" />
+		<Unit filename="src/IronMan.cpp" />
+		<Unit filename="src/Thor.cpp" />
+		<Unit filename="src/ViudaNegra.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
